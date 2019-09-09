@@ -6,7 +6,5 @@ Hindi NLP resources like Indicnlp library and Hindi SentiWordNet are required to
 Alternative: tokenizing with NLTK will also do the work<br>
 Hindi SentiWordNet can be downloaded from [here](http://amitavadas.com/sentiwordnet.php)
 <br>
-<br>
 ### Dataset 
-<br>
 Hindi Bible dataset in JSON format is taken from [here](https://github.com/godlytalias/Bible-Database/blob/master/Hindi/bible.json)
