@@ -1,5 +1,5 @@
 # NLP-on-Hindi-Text
-[Kaggle notebook](https://www.kaggle.com/kapilverma/nlp-in-hindi)
+[Kaggle notebook](https://www.kaggle.com/kapilverma/nlp-in-hindi) <br>
 Analyzing Hindi Bible text using NLP <br>
 `Hindi NLP-Data preprocessing.ipynb` contains Data Cleaning of the JSON file.<br> Files created through the Data preprocessing are available in `Results` folder.
 
