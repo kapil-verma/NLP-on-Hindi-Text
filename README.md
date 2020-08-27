@@ -1,7 +1,7 @@
 # NLP-on-Hindi-Text
 It's a supoorting repository for this [Kaggle notebook](https://www.kaggle.com/kapilverma/nlp-in-hindi) which is aimed for analyzing Hindi Bible text using NLP.
 #### Contents 
-`Hindi NLP-Data preprocessing.ipynb` contains Data Cleaning of the JSON file (dataset).<br> Files created through the Data preprocessing are available in `Results` folder.
+`Hindi NLP-Data preprocessing.ipynb` contains Data Cleaning of the JSON file (dataset).<br> Files created through the Data preprocessing are available in [Results](Results/) folder.
 #### Requirements 
 Hindi NLP resources like Indicnlp library and Hindi SentiWordNet are required to run the `Hindi NLP.ipnyb file`.
 `indic_nlp_resources` can be downloded from [here](https://github.com/anoopkunchukuttan/indic_nlp_resources) <br>
